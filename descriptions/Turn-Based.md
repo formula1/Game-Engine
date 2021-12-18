@@ -1,0 +1,31 @@
+# Turn Based Games are pretty fun :)
+- Try out Magic the gathering!
+  - https://magic.wizards.com/en
+  - Its Cardboard Crack! https://cardboard-crack.com/
+- General Systems
+  - General rules
+    - Win Or Lose
+      - Pay for power - the longer it plays the sooner it should be ended
+      - Allow Super long games for experts, A game has a time limit and should have a respectable win condition like cards in deck or dice roll
+      - Pay for power
+      - If there is an infinite loop, the player who played the loop wins the game
+    - Cards, Zones, Turn Based System, Token, battlefied
+    - Should Be fun whether
+      - fish pool / play alone
+      - Competitive - Limited / standard / legacy / vintage
+      - Group - Democratic decisions. Powerful cards that affect all players
+    - Air of Mystery - Each game should be relatively unique yet somewhat predictable
+  - Color Pie
+    - Colors
+      - White - Should be used by experts, I win card, gain life, make the user use tools like memory, predicting without much information
+      - yellow - dominate yet imperfect
+      - red - simple yet eratic, life blood on onboarding new players, cheap powerful cards yet temporary
+      - blue - vast yet salty yet doesnt seem to have effect (deep virbrant blue sea, The bright empty blue sky)
+      - reflective - can copy color your own perments
+      - diamond - turn one color into others (white into yellow / red / blue)
+      - clear - can copy opponents permenants
+      - black - Mean yet Hard to Hate, You lose card, your opponent, lose life, backwards thinking (pay life to search for a card)
+- Products
+  -  On boarding for the young, old and poor
+  -  Ideas for existing Magic the gathering
+  -  Spectrum - A new complicated luxery cardgame that borrows inspiration from magic the gathering
